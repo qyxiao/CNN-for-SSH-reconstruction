@@ -1,0 +1,1 @@
+Here we provide models trained with the channel simulation vorticity, strain and divergence. To use these models, please refer to figure 8.ipynb.
