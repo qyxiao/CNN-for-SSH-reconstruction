@@ -1,1 +1,2 @@
 Here we provide model weights trained with the channel simulation vorticity, LLC4320 summer vorticity and LLC4320 winter vorticity. To use these model weights, please refer to [figure_7.ipynb](../figure_7.ipynb).
+
