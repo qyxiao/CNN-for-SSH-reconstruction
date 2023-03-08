@@ -1,1 +1,1 @@
-Here we provide models trained with the channel simulation vorticity, strain and divergence. To use these models, please refer to figure 8.ipynb.
+Here we provide model weights trained with the channel simulation vorticity, LLC4320 summer vorticity and LLC4320 winter vorticity. To use these model weights, please refer to [figure_7.ipynb](../figure_7.ipynb).
